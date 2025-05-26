@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at **Technocation pvt Ltd**
 
-- 🌱 I’m currently learning **new courses**
-
 - 📫 How to reach me **muqaddasajm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
